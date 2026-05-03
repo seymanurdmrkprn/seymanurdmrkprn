@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a Software Engineering student at **Muğla Sıtkı Koçman University**, 
+## 💫 Hello! Welcome to my page :3
+#I'm a Software Engineering student at **Muğla Sıtkı Koçman University**, 
 passionate about building things across multiple disciplines — from front-end 
 development to machine learning systems.
 
