@@ -1,19 +1,21 @@
 # 💫 Hello! Welcome to my page :3
-I'm a Software Engineering student at **Muğla Sıtkı Koçman University**, 
+<p align="left" style="font-size:16px;">
+I'm a Software Engineering student at <b>Muğla Sıtkı Koçman University</b>, 
 passionate about building things across multiple disciplines — from front-end 
 development to machine learning systems.
-
-Currently, I'm working on my **capstone project**: a multimodal deepfake 
+<br><br>
+Currently, I'm working on my <b>capstone project</b>: a multimodal deepfake 
 detection pipeline that combines Vision Transformers with audio-visual fusion, 
 trained on 3.4M+ face images.
-
-Outside of that, I'm actively learning **modern front-end technologies** 
+<br><br>
+Outside of that, I'm actively learning <b>modern front-end technologies</b> 
 (React, TypeScript, Node.js, Figma) and deepening my understanding of 
-**AI & ML**. I enjoy exploring different areas of software and I'm always 
+<b>AI & ML</b>. I enjoy exploring different areas of software and I'm always 
 curious to pick up something new.
-
-I'm currently looking for a **Summer 2026 internship** where I can 
+<br><br>
+I'm currently looking for a <b>Summer 2026 internship</b> where I can 
 contribute, learn, and grow.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seymanurdemirkoparan)
