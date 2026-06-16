@@ -13,8 +13,7 @@ Outside of that, I'm actively learning <b>modern front-end technologies</b>
 <b>AI & ML</b>. I enjoy exploring different areas of software and I'm always 
 curious to pick up something new.
 <br><br>
-I'm currently looking for a <b>Summer 2026 internship</b> where I can 
-contribute, learn, and grow.
+
 </p>
 
 ## 🌐 Socials:
